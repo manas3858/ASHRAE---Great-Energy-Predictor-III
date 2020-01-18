@@ -1,4 +1,5 @@
 Q: How much does it cost to cool a skyscraper in the summer?
+
 A: A lot! And not just in dollars, but in environmental impact.
 
 Thankfully, significant investments are being made to improve building efficiencies to reduce costs and emissions. The question is, are the improvements working? Under pay-for-performance financing, the building owner makes payments based on the difference between their real energy consumption and what they would have used without any retrofits. The latter values have to come from a model.
