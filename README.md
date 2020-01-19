@@ -1,3 +1,5 @@
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUgBIuYDxHSefxEXFsP7VPpkiPpmswM4oRTQ1GSZbhdIxTk9ttw&s)
+
 Q: How much does it cost to cool a skyscraper in the summer?
 
 A: A lot! And not just in dollars, but in environmental impact.
